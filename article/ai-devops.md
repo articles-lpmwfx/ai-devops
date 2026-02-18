@@ -200,8 +200,10 @@ That is AI:DevOps.
 ---
 
 **Also available as:**
-[HTML](https://ai-devops.lpmwfx.com) |
+[HTML (.com)](https://ai-devops.lpmwfx.com) |
+[HTML (.eu)](https://ai-devops.lpmwfx.eu) |
 [PDF](https://github.com/articles-lpmwfx/ai-devops/releases/latest) |
-[Repository](https://github.com/articles-lpmwfx/ai-devops) |
+[GitHub](https://github.com/articles-lpmwfx/ai-devops) |
+[Codeberg](https://codeberg.org/Articles-lpmwfx/ai-devops) |
 [SHA256](https://github.com/articles-lpmwfx/ai-devops/blob/main/SHA256SUMS) |
-[Feedback](https://github.com/articles-lpmwfx/ai-devops/issues)
+[Feedback](https://codeberg.org/Articles-lpmwfx/ai-devops/issues)
