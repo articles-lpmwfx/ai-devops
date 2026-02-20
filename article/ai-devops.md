@@ -5,7 +5,6 @@ date: 18.02.2026
 lang: en
 description: "Why AI-assisted development only works when architect and AI programmer operate as a respectful, constraint-driven collaboration — not prompt and autocomplete."
 ---
-
 # AI:DevOps — Respectful Symbiosis Between Architect and AI Programmer
 
 There is a persistent misconception in modern software development: that AI-assisted coding is primarily about speed. That the human writes prompts, the AI spits out code, and velocity increases. In practice, that model quickly collapses into noise, hallucinations, fragile abstractions, and endless correction cycles.
